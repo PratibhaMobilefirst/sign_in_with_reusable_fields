@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sign_in_with_reusable_fields/static/css/main.cafa1906.css",
+    "main.js": "/sign_in_with_reusable_fields/static/js/main.3ec79aa4.js",
+    "static/js/787.534305ad.chunk.js": "/sign_in_with_reusable_fields/static/js/787.534305ad.chunk.js",
+    "index.html": "/sign_in_with_reusable_fields/index.html",
+    "main.cafa1906.css.map": "/sign_in_with_reusable_fields/static/css/main.cafa1906.css.map",
+    "main.3ec79aa4.js.map": "/sign_in_with_reusable_fields/static/js/main.3ec79aa4.js.map",
+    "787.534305ad.chunk.js.map": "/sign_in_with_reusable_fields/static/js/787.534305ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafa1906.css",
+    "static/js/main.3ec79aa4.js"
+  ]
+}
